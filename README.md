@@ -195,8 +195,13 @@ You should be able to see your `ReactGreenify` in your web browser.
 
 
 
-## publishing your package.
+## Publishing ReactGreenify
 
+You'll first need a npmjs account from: [https://www.npmjs.com/signup](https://www.npmjs.com/signup).
 
+```bash
+yarn login
+yarn publish
+```
 
 Happy hacking!

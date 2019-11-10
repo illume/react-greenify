@@ -1,6 +1,6 @@
 {
   "name": "react-greenify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Example React Component tutorial",
   "main": "build/index.js",
   "repository": "https://github.com/illume/react-greenify",
